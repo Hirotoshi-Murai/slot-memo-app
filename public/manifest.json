@@ -1,0 +1,8 @@
+{
+  "name": "スロット実践メモ",
+  "short_name": "実践メモ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
